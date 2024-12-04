@@ -1,0 +1,124 @@
+[
+  {
+    "package": "digest",
+    "url": "https://github.com/eddelbuettel/digest"
+  },
+  {
+    "package": "methods"
+  },
+  {
+    "package": "R6",
+    "url": "https://r6.r-lib.org, https://github.com/r-lib/R6/"
+  },
+  {
+    "package": "fastmap",
+    "url": "https://r-lib.github.io/fastmap/, https://github.com/r-lib/fastmap"
+  },
+  {
+    "package": "xfun",
+    "url": "https://github.com/yihui/xfun"
+  },
+  {
+    "package": "magrittr",
+    "url": "https://magrittr.tidyverse.org"
+  },
+  {
+    "package": "rappdirs",
+    "url": "https://rappdirs.r-lib.org, https://github.com/r-lib/rappdirs"
+  },
+  {
+    "package": "glue",
+    "url": "https://glue.tidyverse.org/, https://github.com/tidyverse/glue"
+  },
+  {
+    "package": "knitr",
+    "url": "https://yihui.org/knitr/"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools"
+  },
+  {
+    "package": "rmarkdown",
+    "url": "https://github.com/rstudio/rmarkdown"
+  },
+  {
+    "package": "lifecycle",
+    "url": "https://lifecycle.r-lib.org/, https://github.com/r-lib/lifecycle"
+  },
+  {
+    "package": "utils"
+  },
+  {
+    "package": "Certara.IntegralR"
+  },
+  {
+    "package": "cli",
+    "url": "https://cli.r-lib.org, https://github.com/r-lib/cli#readme"
+  },
+  {
+    "package": "graphics"
+  },
+  {
+    "package": "testthat",
+    "url": "https://testthat.r-lib.org, https://github.com/r-lib/testthat"
+  },
+  {
+    "package": "grDevices"
+  },
+  {
+    "package": "pkgload",
+    "url": "https://github.com/r-lib/pkgload, https://pkgload.r-lib.org"
+  },
+  {
+    "package": "stats"
+  },
+  {
+    "package": "compiler"
+  },
+  {
+    "package": "base"
+  },
+  {
+    "package": "rstudioapi",
+    "url": "https://rstudio.github.io/rstudioapi/"
+  },
+  {
+    "package": "tools"
+  },
+  {
+    "package": "curl",
+    "url": "https://jeroen.r-universe.dev/curl https://curl.se/libcurl/"
+  },
+  {
+    "package": "universe",
+    "url": "https://docs.ropensci.org/universe/"
+  },
+  {
+    "package": "brio",
+    "url": "https://brio.r-lib.org, https://github.com/r-lib/brio"
+  },
+  {
+    "package": "evaluate",
+    "url": "https://github.com/r-lib/evaluate"
+  },
+  {
+    "package": "yaml",
+    "url": "https://github.com/vubiostat/r-yaml/"
+  },
+  {
+    "package": "httr2",
+    "url": "https://httr2.r-lib.org, https://github.com/r-lib/httr2"
+  },
+  {
+    "package": "jsonlite",
+    "url": "https://jeroen.r-universe.dev/jsonlite\nhttps://arxiv.org/abs/1403.2805"
+  },
+  {
+    "package": "rlang",
+    "url": "https://rlang.r-lib.org, https://github.com/r-lib/rlang"
+  },
+  {
+    "package": "datasets"
+  }
+]
