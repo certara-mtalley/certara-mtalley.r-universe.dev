@@ -4,9 +4,6 @@
     "url": "https://github.com/eddelbuettel/digest"
   },
   {
-    "package": "methods"
-  },
-  {
     "package": "R6",
     "url": "https://r6.r-lib.org, https://github.com/r-lib/R6/"
   },
@@ -47,44 +44,20 @@
     "url": "https://lifecycle.r-lib.org/, https://github.com/r-lib/lifecycle"
   },
   {
-    "package": "utils"
-  },
-  {
-    "package": "Certara.IntegralR"
-  },
-  {
     "package": "cli",
     "url": "https://cli.r-lib.org, https://github.com/r-lib/cli#readme"
-  },
-  {
-    "package": "graphics"
   },
   {
     "package": "testthat",
     "url": "https://testthat.r-lib.org, https://github.com/r-lib/testthat"
   },
   {
-    "package": "grDevices"
-  },
-  {
     "package": "pkgload",
     "url": "https://github.com/r-lib/pkgload, https://pkgload.r-lib.org"
   },
   {
-    "package": "stats"
-  },
-  {
-    "package": "compiler"
-  },
-  {
-    "package": "base"
-  },
-  {
     "package": "rstudioapi",
     "url": "https://rstudio.github.io/rstudioapi/"
-  },
-  {
-    "package": "tools"
   },
   {
     "package": "curl",
@@ -117,8 +90,5 @@
   {
     "package": "rlang",
     "url": "https://rlang.r-lib.org, https://github.com/r-lib/rlang"
-  },
-  {
-    "package": "datasets"
   }
 ]
