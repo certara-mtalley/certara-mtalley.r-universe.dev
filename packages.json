@@ -5,11 +5,11 @@
   },
   {
     "package": "R6",
-    "url": "https://r6.r-lib.org, https://github.com/r-lib/R6/"
+    "url": "https://github.com/r-lib/R6/"
   },
   {
     "package": "fastmap",
-    "url": "https://r-lib.github.io/fastmap/, https://github.com/r-lib/fastmap"
+    "url": "https://github.com/r-lib/fastmap"
   },
   {
     "package": "xfun",
@@ -21,11 +21,11 @@
   },
   {
     "package": "rappdirs",
-    "url": "https://rappdirs.r-lib.org, https://github.com/r-lib/rappdirs"
+    "url": "https://github.com/r-lib/rappdirs"
   },
   {
     "package": "glue",
-    "url": "https://glue.tidyverse.org/, https://github.com/tidyverse/glue"
+    "url": "https://github.com/tidyverse/glue"
   },
   {
     "package": "knitr",
@@ -41,27 +41,27 @@
   },
   {
     "package": "lifecycle",
-    "url": "https://lifecycle.r-lib.org/, https://github.com/r-lib/lifecycle"
+    "url": "https://github.com/r-lib/lifecycle"
   },
   {
     "package": "cli",
-    "url": "https://cli.r-lib.org, https://github.com/r-lib/cli#readme"
+    "url": "https://github.com/r-lib/cli"
   },
   {
     "package": "testthat",
-    "url": "https://testthat.r-lib.org, https://github.com/r-lib/testthat"
+    "url": "https://github.com/r-lib/testthat"
   },
   {
     "package": "pkgload",
-    "url": "https://github.com/r-lib/pkgload, https://pkgload.r-lib.org"
+    "url": "https://github.com/r-lib/pkgload"
   },
   {
     "package": "rstudioapi",
-    "url": "https://rstudio.github.io/rstudioapi/"
+    "url": "https://rstudio.github.io/rstudioapi"
   },
   {
     "package": "curl",
-    "url": "https://jeroen.r-universe.dev/curl https://curl.se/libcurl/"
+    "url": "https://jeroen.r-universe.dev/curl"
   },
   {
     "package": "universe",
@@ -69,7 +69,7 @@
   },
   {
     "package": "brio",
-    "url": "https://brio.r-lib.org, https://github.com/r-lib/brio"
+    "url": "https://github.com/r-lib/brio"
   },
   {
     "package": "evaluate",
@@ -81,14 +81,14 @@
   },
   {
     "package": "httr2",
-    "url": "https://httr2.r-lib.org, https://github.com/r-lib/httr2"
+    "url": "https://github.com/r-lib/httr2"
   },
   {
     "package": "jsonlite",
-    "url": "https://jeroen.r-universe.dev/jsonlite\nhttps://arxiv.org/abs/1403.2805"
+    "url": "https://jeroen.r-universe.dev/jsonlite"
   },
   {
     "package": "rlang",
-    "url": "https://rlang.r-lib.org, https://github.com/r-lib/rlang"
+    "url": "https://github.com/r-lib/rlang"
   }
 ]
